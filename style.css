@@ -1,3 +1,37 @@
-body {
-    background-image: url(image/bckg.jpg);
+.header {
+    background-color: darkslateblue;
+    height: 177px;
+    font-size:0.8em;
+    margin-left: 0px;
+    margin-right: 0px;
+    min-width: 900px;
+    font-family: Tahoma;
+}
+
+.logo {
+    width: 880px;
+    padding-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.vklink {
+    cursor: pointer;
+    background-color: rgb(12, 113, 153);
+    color: rgb(253, 253, 253);
+    font-size: 0.9em;
+    padding: 5px;
+    width:70px;
+    margin-left:1300px;
+    font-family: Tahoma;
+    position: relative;
+}
+
+.post {
+    width: 70px;
+    background-color:  rgb(12, 113, 153);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    margin-left: 1300px;
+    font-size: 0.9em;
+
 }
